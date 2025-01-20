@@ -17,4 +17,4 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Large image
 
-![DONUT](https://github.com/10gusan/tengusan.github.io/blob/main/donut.gif))
+![DONUT](donut.gif))
