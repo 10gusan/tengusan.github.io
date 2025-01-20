@@ -94,7 +94,7 @@ end
 
 ### Large image
 
-![DONUT]([https://guides.github.com/activities/hello-world/branching.png](https://user-images.githubusercontent.com/66507909/135775594-dd729ae2-22d7-4692-92e9-c174c29991b2.gif))
+![DONUT](https://github.com/10gusan/tengusan.github.io/blob/main/donut.gif))
 
 
 ### Definition lists can be used with HTML syntax.
