@@ -4,7 +4,7 @@ layout: default
 
 
 
-[Link to another page](./another-page.html).
+[How To SIEM](./another-page.html).
 
 
 
